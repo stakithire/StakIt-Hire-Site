@@ -1,0 +1,16 @@
+{
+  "node": {
+    "406c7ebe733410baaa36a89281f1b5a67a9402c0d0": {
+      "workers": {
+        "app/grant-admin/page": {
+          "moduleId": "[project]/.next-internal/server/app/grant-admin/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/grant-admin/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

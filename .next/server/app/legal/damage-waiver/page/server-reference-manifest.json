@@ -1,0 +1,16 @@
+{
+  "node": {
+    "00fe18b96df2471a5e11a3d39a49ade8565b945e4f": {
+      "workers": {
+        "app/legal/damage-waiver/page": {
+          "moduleId": "[project]/.next-internal/server/app/legal/damage-waiver/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/legal/damage-waiver/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
